@@ -6,5 +6,6 @@ with a list which has all character data. Then ask user to enter it by asking di
 more complex you can add traits and give special actions to them for example if trait: print 'You are bald warrior with a scar on your back'
 If this is not enough you can add it to the project one so you will have choose your own adventure with customatization!
 
-Same deal for submitting just name it p2_nameoftheproject and submit it inot coolstuff1
+Same deal for submitting just name it p2_nameoftheproject and submit it to coolstuff1. If this is your 2nd update to your previous
+submission just update the original file and ask for pull into master.
 If stuck feel free to contact me to ask for help :)
