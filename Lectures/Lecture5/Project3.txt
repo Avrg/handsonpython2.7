@@ -1,0 +1,42 @@
+Welcome back! Many languages would not have the functionality which will be covered in lectures to come. They could have similar things
+but next parts are a bit more advanced. This is FINAL project for PART 1:: Introduction to Hands on Python. Considering this is a final
+project it's complexity is going to be a bit higher. Don't be discouraged, if you feel frustrated just take a pause and try to comeback
+to the problem later (Also if you feel that you are frustrated and feel like quitting consider finishing this project as once you finish it
+you have done the course. Nothing will stop you from coming back later and continueing with this course). Also again I am more than 
+would love to help so feel free to contact me. Again once done submit it to the Final Project1 folder by a pull request.
+REMEMBER NOT TO RUN CODE WHICH YOU DO NOT KNOW WHEN TRYING SUBMITTED PROJECTS. SCAN WITH AV FIRST AS IT CAN BE A MALWARE. IF YOU
+SUSPECT THAT PLEASE NOTIFY ME (notifying github staff can be a good idea too as this code could be spread through other means too
+and preventing that would be a priority)SO WE CAN DEAL WITH IT.
+
+Project outline:
+Try to use everything what we hove done so far in this project. It can be a game or a useful application. I will suggest games as they do
+provide a challenge similar to doing boring math/programming tasks but also contain some interesting parts and it is rewarding to play
+them once you done. 
+Suggestions: Tic tac toe. Minesweeper. Blackjack. Poker etc.
+when doing Tic tac toe or minesweeper you can use lists and display them in multiple lines.
+to print multiple values in a row consider using list comprehension or '%s %s %s ' %(variables)
+Another option is to use 
+
+from __future__ import print_function
+
+we will talk about __future__ later in second part of the course and then
+
+print 'stuff', end=" " #does not end print with a new line.
+
+Try to give yourself at least a day to complete it. Make sure to limit yourself in time and plan first.
+While planning use pen and paper draw how you would implement. you can use pseudocode to outline some of the more complicated parts.
+Pseudocode is use of code and english. For example during lecture I used pseudocode once:
+
+#not actual code
+while comparison true:
+    run code # 4spaces/tab before line to ensure that the computer can understand what code has to be run inside of the loop
+
+If you will feel like you put too harsh limits on yourself analyze why you were unable to meet it and adjust it again.
+If you feel you need additional boost in motivation break your task into goals. For example printing stuff out on the screen could be
+one goal. Use SMART (Specific, Measurable, Attainable! , Realistic, Time restricted). Don't expect to finish a gta or nethack or
+another giant project start small.
+
+If you feel confident try to make a small project first and then do a bigger project in 7 days. Once done feel free to submit both
+just make sure to specify 7day one.
+
+BEST OF LUCK and feel free to contact me. Let the GOOGLE force be with you!
