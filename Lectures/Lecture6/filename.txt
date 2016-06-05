@@ -1,0 +1,7 @@
+This is just a text file which you can read
+and 
+so can python 
+read it too. 
+Don't forget 
+to use pythons ability to read files to enhance your programs.
+Try to play around and format this string to look neat :/
