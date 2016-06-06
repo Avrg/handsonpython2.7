@@ -18,3 +18,5 @@ can edit, delete and make new files from it.
 Create a time scheduler. Use time and timedate libraries to get time and make the program promt you an earlier made plan each day.
 
 Come up with the next big thing. Or try to do that!
+
+Feel free to (make a pull request) add your creations to the final project folder.
