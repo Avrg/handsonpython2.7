@@ -1,0 +1,20 @@
+Congrats on getting this far. Now its time to put everything you learned to practice.
+Now its time to create something great! Try to come up with some awesome idea and implement it.
+I will suggest a few down below.
+
+When coming up with an idea make sure its not too broad and that you will be able to reach it in 
+reasonable time. Break up the idea into parts and consider implementing them one at a time.
+Don't give up! Just dont!
+
+Suggestions:
+Create a barebones rpg/roguelike (basically create the engine and implement one type of item/block only
+you should be able to play the game fully but it will just lack variety. Once finished you can add more content)
+
+Create a calculator. Simple and easy. Now go and make something bigger!
+
+Create a database of your favourite books/cartoons/movies with your personal reviews. Make the program self sufficient meaning that you
+can edit, delete and make new files from it.
+
+Create a time scheduler. Use time and timedate libraries to get time and make the program promt you an earlier made plan each day.
+
+Come up with the next big thing. Or try to do that!
